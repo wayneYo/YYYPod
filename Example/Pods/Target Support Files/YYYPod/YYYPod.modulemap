@@ -1,0 +1,6 @@
+framework module YYYPod {
+  umbrella header "YYYPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

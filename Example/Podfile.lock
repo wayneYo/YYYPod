@@ -1,0 +1,16 @@
+PODS:
+  - YYYPod (0.1.0)
+
+DEPENDENCIES:
+  - YYYPod (from `../`)
+
+EXTERNAL SOURCES:
+  YYYPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YYYPod: c142cae5fea07f818b745da1b4cb197b9a93e7fa
+
+PODFILE CHECKSUM: 2841f6b333d03ae81afd6cc3344e56fdaf0c2ed8
+
+COCOAPODS: 1.7.1

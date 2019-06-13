@@ -1,0 +1,22 @@
+{
+  "name": "YYYPod",
+  "version": "0.1.0",
+  "summary": "A short description of YYYPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yang729225316/YYYPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yang729225316": "yangluwen8779@adpanshi.com"
+  },
+  "source": {
+    "git": "https://github.com/yang729225316/YYYPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YYYPod/Classes/**/*"
+}
